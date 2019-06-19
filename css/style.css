@@ -1,8 +1,8 @@
 * { box-sizing: border-box; }
 
 body{  
-  font-family: sans-serif;
   margin: 0;
+  font-family: sans-serif;
 }
 a {
     text-decoration: none;
@@ -13,7 +13,7 @@ a {
 header {
     background: black;
     color: white;
-    padding 1em 2em;
+    padding: 1em 2em;
 }
     header a {
         color: white;
@@ -66,7 +66,8 @@ header {
         display: grid;
         align-content: center;
         text-align: center;
-        background: darkred;
+        background-image: linear-gradient(lightblue, rgb(0, 0, 0));
+        font-family: roboto mono; 
         min-height: 50vh;
         color: white;
     }

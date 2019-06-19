@@ -6,14 +6,14 @@ body{
 }
 a {
     text-decoration: none;
-    color: darkred;
+    color: darkcyan;
 }
 
 /* Header */
 header {
     background: black;
     color: white;
-    padding: 1em 2em;
+    padding: 1.5em 2em;
 }
     header a {
         color: white;

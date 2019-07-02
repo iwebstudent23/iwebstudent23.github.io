@@ -3,7 +3,7 @@
 body{  
   margin: 0;
   font-family: sans-serif;
-  background: black;
+  background-image: linear-gradient(black, black);
 }
 a {
     text-decoration: none;

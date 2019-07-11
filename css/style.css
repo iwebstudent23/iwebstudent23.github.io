@@ -4,6 +4,7 @@ body{
   margin: 0;
   font-family: sans-serif;
   background-image: linear-gradient(black, black);
+  color: white;
 }
 a {
     text-decoration: none;
@@ -124,4 +125,11 @@ a {
     opacity: .5;
     font-size: .8em;
 
+}
+/* UI GALLERY */
+.ui-designs {
+    text-align: center;
+}
+.ui-designs img {
+    max-width: 100px;
 }
